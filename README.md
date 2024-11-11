@@ -20,4 +20,4 @@ Sistem Pengelolaan Tugas Akhir ini dirancang untuk memfasilitasi dan mengelola p
 ## Instalasi
 1. **Kloning Repositori**:
    ```bash
-   git clone https://github.com/username/TA_project.git
+   git clone https://github.com/Upsent-Developer/TA_project.git
