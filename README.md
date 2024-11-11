@@ -5,6 +5,9 @@ Sistem Pengelolaan Tugas Akhir Mahasiswa
 ## Deskripsi Proyek
 Sistem Pengelolaan Tugas Akhir ini dirancang untuk memfasilitasi dan mengelola proses Tugas Akhir mahasiswa secara terstruktur. Sistem ini memberikan kemudahan akses bagi berbagai peran yang terlibat, termasuk Bagian Akademik, Koordinator Tugas Akhir, mahasiswa, dosen pembimbing, dan panel penguji. Sistem ini dikembangkan menggunakan PHP native.
 
+## Nama Database
+sistem_ta
+
 ## Fitur Utama
 1. **Manajemen Pendaftaran Tugas Akhir**: Pendaftaran ulang, verifikasi, dan persetujuan.
 2. **Pengelolaan Proposal Tugas Akhir**: Pengajuan dan penetapan dosen pembimbing.
