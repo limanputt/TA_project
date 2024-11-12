@@ -1,4 +1,4 @@
-# TA_project
+# Project_TA
 
 Sistem Pengelolaan Tugas Akhir Mahasiswa
 
