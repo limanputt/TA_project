@@ -20,6 +20,9 @@ sistem_ta
 - **Backend**: PHP Native
 - **Database**: MySQL
 
+## Template
+By : © Skydash
+
 ## Instalasi
 1. **Kloning Repositori**:
    ```bash
